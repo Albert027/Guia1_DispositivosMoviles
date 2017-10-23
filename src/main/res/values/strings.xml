@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="BtnAC">AC</string>
+    <string name="BtnDEL">DEL</string>
+    <string name="BtnANS">ANS</string>
+    <string name="BtnMas">+</string>
+    <string name="BtnMenos">-</string>
+    <string name="BtnMult">*</string>
+    <string name="BtnEntre">/</string>
+    <string name="BtnUno">1</string>
+    <string name="BtnDos">2</string>
+    <string name="BtnTres">3</string>
+    <string name="BtnCuatro">4</string>
+    <string name="BtnCinco">5</string>
+    <string name="BtnSeis">6</string>
+    <string name="BtnSiete">7</string>
+    <string name="BtnOcho">8</string>
+    <string name="BtnNueve">9</string>
+    <string name="BtnCero">0</string>
+    <string name="BtnIgual">=</string>
+    <string name="BtnDot">.</string>
+</resources>
